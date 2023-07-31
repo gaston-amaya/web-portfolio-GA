@@ -1,5 +1,5 @@
 body{
-    background-image: url('/assets/wallhaven-lm35vp_1600x900.png');
+    background-image: url('/assets/wallhaven-nzxlxj_1600x900.png');
     background-size: contain;
   background-repeat: repeat-y;
   width: 100%;
@@ -35,7 +35,7 @@ img {
   position: relative;
   display: inline-block;
   font-size: 1.50rem;
-  color: #fff;
+  color: #ffffff;
   animation: flip 2s infinite;
   animation-delay: calc(.2s * var(--i))
 }
